@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TestTaskShift.iml" filepath="$PROJECT_DIR$/TestTaskShift.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstTask/firstTask.iml" filepath="$PROJECT_DIR$/firstTask/firstTask.iml" />
     </modules>
   </component>
 </project>
